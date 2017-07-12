@@ -1,0 +1,17 @@
+{
+  "name": "iohub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CreateDeviceIdentity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8",
+    "azure-iot-device": "^1.1.15",
+    "azure-iot-device-mqtt": "^1.1.15",
+    "azure-iothub": "^1.1.12"
+  }
+}
